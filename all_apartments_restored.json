@@ -1,0 +1,902 @@
+[
+    {
+        "objectId": "177_10000000076262149",
+        "addressNote": "Москва, Царицыно, ул. Севанская, д. 19, корп. 3, кв. 353",
+        "apartment": "353",
+        "areaValue": 32.1,
+        "premisesFloor": 1,
+        "num_to_sort": "0353",
+        "data_calculated": 0
+    },
+    {
+        "objectId": "177_14444814301",
+        "addressNote": "Москва, Царицыно, ул. Севанская, д. 19, корп. 3, кв. 354",
+        "apartment": "354",
+        "areaValue": 42.0,
+        "premisesFloor": 1,
+        "num_to_sort": "0354",
+        "data_calculated": 0
+    },
+    {
+        "objectId": "177_14444818301",
+        "addressNote": "Москва, Царицыно, ул. Севанская, д. 19, корп. 3, кв. 355",
+        "apartment": "355",
+        "areaValue": 44.7,
+        "premisesFloor": 1,
+        "num_to_sort": "0355",
+        "data_calculated": 0
+    },
+    {
+        "objectId": "177_14444830301",
+        "addressNote": "Москва, Царицыно, ул. Севанская, д. 19, корп. 3, кв. 356",
+        "apartment": "356",
+        "areaValue": 44.9,
+        "premisesFloor": 1,
+        "num_to_sort": "0356",
+        "data_calculated": 0
+    },
+    {
+        "objectId": "177_12127565301",
+        "addressNote": "Москва, Царицыно, ул. Севанская, д. 19, корп. 3, кв. 357",
+        "apartment": "357",
+        "areaValue": 32.2,
+        "premisesFloor": 2,
+        "num_to_sort": "0357",
+        "data_calculated": 0
+    },
+    {
+        "objectId": "177_14444844301",
+        "addressNote": "Москва, Царицыно, ул. Севанская, д. 19, корп. 3, кв. 358",
+        "apartment": "358",
+        "areaValue": 41.9,
+        "premisesFloor": 2,
+        "num_to_sort": "0358",
+        "data_calculated": 0
+    },
+    {
+        "objectId": "177_14444859301",
+        "addressNote": "Москва, Царицыно, ул. Севанская, д. 19, корп. 3, кв. 359",
+        "apartment": "359",
+        "areaValue": 44.9,
+        "premisesFloor": 2,
+        "num_to_sort": "0359",
+        "data_calculated": 0
+    },
+    {
+        "objectId": "177_14444873301",
+        "addressNote": "Москва, Царицыно, ул. Севанская, д. 19, корп. 3, кв. 360",
+        "apartment": "360",
+        "areaValue": 44.5,
+        "premisesFloor": 2,
+        "num_to_sort": "0360",
+        "data_calculated": 0
+    },
+    {
+        "objectId": "177_828884301",
+        "addressNote": "Москва, Царицыно, ул. Севанская, д. 19, корп. 3, кв. 361",
+        "apartment": "361",
+        "areaValue": 32.0,
+        "premisesFloor": 3,
+        "num_to_sort": "0361",
+        "data_calculated": 0
+    },
+    {
+        "objectId": "177_828885301",
+        "addressNote": "Москва, Царицыно, ул. Севанская, д. 19, корп. 3, кв. 362",
+        "apartment": "362",
+        "areaValue": 41.9,
+        "premisesFloor": 3,
+        "num_to_sort": "0362",
+        "data_calculated": 0
+    },
+    {
+        "objectId": "177_14444884301",
+        "addressNote": "Москва, Царицыно, ул. Севанская, д. 19, корп. 3, кв. 363",
+        "apartment": "363",
+        "areaValue": 45.1,
+        "premisesFloor": 3,
+        "num_to_sort": "0363",
+        "data_calculated": 0
+    },
+    {
+        "objectId": "177_14444895301",
+        "addressNote": "Москва, Царицыно, ул. Севанская, д. 19, корп. 3, кв. 364",
+        "apartment": "364",
+        "areaValue": 44.5,
+        "premisesFloor": 3,
+        "num_to_sort": "0364",
+        "data_calculated": 0
+    },
+    {
+        "objectId": "177_828886301",
+        "addressNote": "Москва, Царицыно, ул. Севанская, д. 19, корп. 3, кв. 365",
+        "apartment": "365",
+        "areaValue": 31.8,
+        "premisesFloor": 4,
+        "num_to_sort": "0365",
+        "data_calculated": 0
+    },
+    {
+        "objectId": "177_14444913301",
+        "addressNote": "Москва, Царицыно, ул. Севанская, д. 19, корп. 3, кв. 366",
+        "apartment": "366",
+        "areaValue": 41.9,
+        "premisesFloor": 4,
+        "num_to_sort": "0366",
+        "data_calculated": 0
+    },
+    {
+        "objectId": "177_14444925301",
+        "addressNote": "Москва, Царицыно, ул. Севанская, д. 19, корп. 3, кв. 367",
+        "apartment": "367",
+        "areaValue": 45.0,
+        "premisesFloor": 4,
+        "num_to_sort": "0367",
+        "data_calculated": 0
+    },
+    {
+        "objectId": "177_828887301",
+        "addressNote": "Москва, Царицыно, ул. Севанская, д. 19, корп. 3, кв. 368",
+        "apartment": "368",
+        "areaValue": 44.5,
+        "premisesFloor": 4,
+        "num_to_sort": "0368",
+        "data_calculated": 0
+    },
+    {
+        "objectId": "177_828888301",
+        "addressNote": "Москва, Царицыно, ул. Севанская, д. 19, корп. 3, кв. 369",
+        "apartment": "369",
+        "areaValue": 32.1,
+        "premisesFloor": 5,
+        "num_to_sort": "0369",
+        "data_calculated": 0
+    },
+    {
+        "objectId": "177_14444939301",
+        "addressNote": "Москва, Царицыно, ул. Севанская, д. 19, корп. 3, кв. 370",
+        "apartment": "370",
+        "areaValue": 41.5,
+        "premisesFloor": 5,
+        "num_to_sort": "0370",
+        "data_calculated": 0
+    },
+    {
+        "objectId": "177_13029672301",
+        "addressNote": "Москва, Царицыно, ул. Севанская, д. 19, корп. 3, кв. 371",
+        "apartment": "371",
+        "areaValue": 45.3,
+        "premisesFloor": 5,
+        "num_to_sort": "0371",
+        "data_calculated": 0
+    },
+    {
+        "objectId": "177_14444948301",
+        "addressNote": "Москва, Царицыно, ул. Севанская, д. 19, корп. 3, кв. 372",
+        "apartment": "372",
+        "areaValue": 44.3,
+        "premisesFloor": 5,
+        "num_to_sort": "0372",
+        "data_calculated": 0
+    },
+    {
+        "objectId": "177_14444956301",
+        "addressNote": "Москва, Царицыно, ул. Севанская, д. 19, корп. 3, кв. 373",
+        "apartment": "373",
+        "areaValue": 44.8,
+        "premisesFloor": 1,
+        "num_to_sort": "0373",
+        "data_calculated": 0
+    },
+    {
+        "objectId": "177_1727853301",
+        "addressNote": "Москва, Царицыно, ул. Севанская, д. 19, корп. 3, кв. 374",
+        "apartment": "374",
+        "areaValue": 45.1,
+        "premisesFloor": 1,
+        "num_to_sort": "0374",
+        "data_calculated": 0
+    },
+    {
+        "objectId": "177_14444965301",
+        "addressNote": "Москва, Царицыно, ул. Севанская, д. 19, корп. 3, кв. 375",
+        "apartment": "375",
+        "areaValue": 55.1,
+        "premisesFloor": 1,
+        "num_to_sort": "0375",
+        "data_calculated": 0
+    },
+    {
+        "objectId": "177_828889301",
+        "addressNote": "Москва, Царицыно, ул. Севанская, д. 19, корп. 3, кв. 376",
+        "apartment": "376",
+        "areaValue": 44.7,
+        "premisesFloor": 1,
+        "num_to_sort": "0376",
+        "data_calculated": 0
+    },
+    {
+        "objectId": "177_14444976301",
+        "addressNote": "Москва, Царицыно, ул. Севанская, д. 19, корп. 3, кв. 377",
+        "apartment": "377",
+        "areaValue": 45.0,
+        "premisesFloor": 2,
+        "num_to_sort": "0377",
+        "data_calculated": 0
+    },
+    {
+        "objectId": "177_828890301",
+        "addressNote": "Москва, Царицыно, ул. Севанская, д. 19, корп. 3, кв. 378",
+        "apartment": "378",
+        "areaValue": 45.1,
+        "premisesFloor": 2,
+        "num_to_sort": "0378",
+        "data_calculated": 0
+    },
+    {
+        "objectId": "177_10000000076951765",
+        "addressNote": "Москва, Царицыно, ул. Севанская, д. 19, корп. 3, кв. 379",
+        "apartment": "379",
+        "areaValue": 55.3,
+        "premisesFloor": 2,
+        "num_to_sort": "0379",
+        "data_calculated": 0
+    },
+    {
+        "objectId": "177_828892301",
+        "addressNote": "Москва, Царицыно, ул. Севанская, д. 19, корп. 3, кв. 380",
+        "apartment": "380",
+        "areaValue": 44.5,
+        "premisesFloor": 2,
+        "num_to_sort": "0380",
+        "data_calculated": 0
+    },
+    {
+        "objectId": "177_13371264301",
+        "addressNote": "Москва, Царицыно, ул. Севанская, д. 19, корп. 3, кв. 381",
+        "apartment": "381",
+        "areaValue": 45.0,
+        "premisesFloor": 3,
+        "num_to_sort": "0381",
+        "data_calculated": 0
+    },
+    {
+        "objectId": "177_12422684301",
+        "addressNote": "Москва, Царицыно, ул. Севанская, д. 19, корп. 3, кв. 382",
+        "apartment": "382",
+        "areaValue": 45.1,
+        "premisesFloor": 3,
+        "num_to_sort": "0382",
+        "data_calculated": 0
+    },
+    {
+        "objectId": "177_14444990301",
+        "addressNote": "Москва, Царицыно, ул. Севанская, д. 19, корп. 3, кв. 383",
+        "apartment": "383",
+        "areaValue": 55.3,
+        "premisesFloor": 3,
+        "num_to_sort": "0383",
+        "data_calculated": 0
+    },
+    {
+        "objectId": "177_828893301",
+        "addressNote": "Москва, Царицыно, ул. Севанская, д. 19, корп. 3, кв. 384",
+        "apartment": "384",
+        "areaValue": 44.2,
+        "premisesFloor": 3,
+        "num_to_sort": "0384",
+        "data_calculated": 0
+    },
+    {
+        "objectId": "177_12405255301",
+        "addressNote": "Москва, Царицыно, ул. Севанская, д. 19, корп. 3, кв. 385",
+        "apartment": "385",
+        "areaValue": 44.8,
+        "premisesFloor": 4,
+        "num_to_sort": "0385",
+        "data_calculated": 0
+    },
+    {
+        "objectId": "177_14445006301",
+        "addressNote": "Москва, Царицыно, ул. Севанская, д. 19, корп. 3, кв. 386",
+        "apartment": "386",
+        "areaValue": 45.0,
+        "premisesFloor": 4,
+        "num_to_sort": "0386",
+        "data_calculated": 0
+    },
+    {
+        "objectId": "177_10000000075941939",
+        "addressNote": "Москва, Царицыно, ул. Севанская, д. 19, корп. 3, кв. 387",
+        "apartment": "387",
+        "areaValue": 55.6,
+        "premisesFloor": 4,
+        "num_to_sort": "0387",
+        "data_calculated": 0
+    },
+    {
+        "objectId": "177_828894301",
+        "addressNote": "Москва, Царицыно, ул. Севанская, д. 19, корп. 3, кв. 388",
+        "apartment": "388",
+        "areaValue": 45.0,
+        "premisesFloor": 4,
+        "num_to_sort": "0388",
+        "data_calculated": 0
+    },
+    {
+        "objectId": "177_14445021301",
+        "addressNote": "Москва, Царицыно, ул. Севанская, д. 19, корп. 3, кв. 389",
+        "apartment": "389",
+        "areaValue": 45.1,
+        "premisesFloor": 5,
+        "num_to_sort": "0389",
+        "data_calculated": 0
+    },
+    {
+        "objectId": "177_13022908301",
+        "addressNote": "Москва, Царицыно, ул. Севанская, д. 19, корп. 3, кв. 390",
+        "apartment": "390",
+        "areaValue": 44.9,
+        "premisesFloor": 5,
+        "num_to_sort": "0390",
+        "data_calculated": 0
+    },
+    {
+        "objectId": "177_13199503301",
+        "addressNote": "Москва, Царицыно, ул. Севанская, д. 19, корп. 3, кв. 391",
+        "apartment": "391",
+        "areaValue": 55.4,
+        "premisesFloor": 5,
+        "num_to_sort": "0391",
+        "data_calculated": 0
+    },
+    {
+        "objectId": "177_828895301",
+        "addressNote": "Москва, Царицыно, ул. Севанская, д. 19, корп. 3, кв. 392",
+        "apartment": "392",
+        "areaValue": 45.0,
+        "premisesFloor": 5,
+        "num_to_sort": "0392",
+        "data_calculated": 0
+    },
+    {
+        "objectId": "177_14445037301",
+        "addressNote": "Москва, Царицыно, ул. Севанская, д. 19, корп. 3, кв. 393",
+        "apartment": "393",
+        "areaValue": 44.9,
+        "premisesFloor": 1,
+        "num_to_sort": "0393",
+        "data_calculated": 0
+    },
+    {
+        "objectId": "177_14445056301",
+        "addressNote": "Москва, Царицыно, ул. Севанская, д. 19, корп. 3, кв. 394",
+        "apartment": "394",
+        "areaValue": 44.7,
+        "premisesFloor": 1,
+        "num_to_sort": "0394",
+        "data_calculated": 0
+    },
+    {
+        "objectId": "177_13160325301",
+        "addressNote": "Москва, Царицыно, ул. Севанская, д. 19, корп. 3, кв. 395",
+        "apartment": "395",
+        "areaValue": 55.2,
+        "premisesFloor": 1,
+        "num_to_sort": "0395",
+        "data_calculated": 0
+    },
+    {
+        "objectId": "177_14445058301",
+        "addressNote": "Москва, Царицыно, ул. Севанская, д. 19, корп. 3, кв. 396",
+        "apartment": "396",
+        "areaValue": 44.7,
+        "premisesFloor": 1,
+        "num_to_sort": "0396",
+        "data_calculated": 0
+    },
+    {
+        "objectId": "177_12969478301",
+        "addressNote": "Москва, Царицыно, ул. Севанская, д. 19, корп. 3, кв. 397",
+        "apartment": "397",
+        "areaValue": 44.4,
+        "premisesFloor": 2,
+        "num_to_sort": "0397",
+        "data_calculated": 0
+    },
+    {
+        "objectId": "177_14447329301",
+        "addressNote": "Москва, Царицыно, ул. Севанская, д. 19, корп. 3, кв. 398",
+        "apartment": "398",
+        "areaValue": 44.8,
+        "premisesFloor": 2,
+        "num_to_sort": "0398",
+        "data_calculated": 0
+    },
+    {
+        "objectId": "177_14447335301",
+        "addressNote": "Москва, Царицыно, ул. Севанская, д. 19, корп. 3, кв. 399",
+        "apartment": "399",
+        "areaValue": 54.9,
+        "premisesFloor": 2,
+        "num_to_sort": "0399",
+        "data_calculated": 0
+    },
+    {
+        "objectId": "177_828896301",
+        "addressNote": "Москва, Царицыно, ул. Севанская, д. 19, корп. 3, кв. 400",
+        "apartment": "400",
+        "areaValue": 44.7,
+        "premisesFloor": 2,
+        "num_to_sort": "0400",
+        "data_calculated": 0
+    },
+    {
+        "objectId": "177_13534209301",
+        "addressNote": "Москва, Царицыно, ул. Севанская, д. 19, корп. 3, кв. 401",
+        "apartment": "401",
+        "areaValue": 44.4,
+        "premisesFloor": 3,
+        "num_to_sort": "0401",
+        "data_calculated": 0
+    },
+    {
+        "objectId": "177_14445252301",
+        "addressNote": "Москва, Царицыно, ул. Севанская, д. 19, корп. 3, кв. 402",
+        "apartment": "402",
+        "areaValue": 44.7,
+        "premisesFloor": 3,
+        "num_to_sort": "0402",
+        "data_calculated": 0
+    },
+    {
+        "objectId": "177_12811640301",
+        "addressNote": "Москва, Царицыно, ул. Севанская, д. 19, корп. 3, кв. 403",
+        "apartment": "403",
+        "areaValue": 55.2,
+        "premisesFloor": 3,
+        "num_to_sort": "0403",
+        "data_calculated": 0
+    },
+    {
+        "objectId": "177_13367087301",
+        "addressNote": "Москва, Царицыно, ул. Севанская, д. 19, корп. 3, кв. 404",
+        "apartment": "404",
+        "areaValue": 45.0,
+        "premisesFloor": 3,
+        "num_to_sort": "0404",
+        "data_calculated": 0
+    },
+    {
+        "objectId": "177_12207826301",
+        "addressNote": "Москва, Царицыно, ул. Севанская, д. 19, корп. 3, кв. 405",
+        "apartment": "405",
+        "areaValue": 44.3,
+        "premisesFloor": 4,
+        "num_to_sort": "0405",
+        "data_calculated": 0
+    },
+    {
+        "objectId": "177_14174996301",
+        "addressNote": "Москва, Царицыно, ул. Севанская, д. 19, корп. 3, кв. 406",
+        "apartment": "406",
+        "areaValue": 44.6,
+        "premisesFloor": 4,
+        "num_to_sort": "0406",
+        "data_calculated": 0
+    },
+    {
+        "objectId": "177_14445269301",
+        "addressNote": "Москва, Царицыно, ул. Севанская, д. 19, корп. 3, кв. 407",
+        "apartment": "407",
+        "areaValue": 55.1,
+        "premisesFloor": 4,
+        "num_to_sort": "0407",
+        "data_calculated": 0
+    },
+    {
+        "objectId": "177_1418245301",
+        "addressNote": "Москва, Царицыно, ул. Севанская, д. 19, корп. 3, кв. 408",
+        "apartment": "408",
+        "areaValue": 45.2,
+        "premisesFloor": 4,
+        "num_to_sort": "0408",
+        "data_calculated": 0
+    },
+    {
+        "objectId": "177_12501790301",
+        "addressNote": "Москва, Царицыно, ул. Севанская, д. 19, корп. 3, кв. 409",
+        "apartment": "409",
+        "areaValue": 44.8,
+        "premisesFloor": 5,
+        "num_to_sort": "0409",
+        "data_calculated": 0
+    },
+    {
+        "objectId": "177_14445336301",
+        "addressNote": "Москва, Царицыно, ул. Севанская, д. 19, корп. 3, кв. 410",
+        "apartment": "410",
+        "areaValue": 44.6,
+        "premisesFloor": 5,
+        "num_to_sort": "0410",
+        "data_calculated": 0
+    },
+    {
+        "objectId": "177_14445355301",
+        "addressNote": "Москва, Царицыно, ул. Севанская, д. 19, корп. 3, кв. 411",
+        "apartment": "411",
+        "areaValue": 55.4,
+        "premisesFloor": 5,
+        "num_to_sort": "0411",
+        "data_calculated": 0
+    },
+    {
+        "objectId": "177_828897301",
+        "addressNote": "Москва, Царицыно, ул. Севанская, д. 19, корп. 3, кв. 412",
+        "apartment": "412",
+        "areaValue": 45.5,
+        "premisesFloor": 5,
+        "num_to_sort": "0412",
+        "data_calculated": 0
+    },
+    {
+        "objectId": "177_10000000076175105",
+        "addressNote": "Москва, Царицыно, ул. Севанская, д. 19, корп. 3, кв. 413",
+        "apartment": "413",
+        "areaValue": 45.0,
+        "premisesFloor": 1,
+        "num_to_sort": "0413",
+        "data_calculated": 0
+    },
+    {
+        "objectId": "177_13214995301",
+        "addressNote": "Москва, Царицыно, ул. Севанская, д. 19, корп. 3, кв. 414",
+        "apartment": "414",
+        "areaValue": 45.1,
+        "premisesFloor": 1,
+        "num_to_sort": "0414",
+        "data_calculated": 0
+    },
+    {
+        "objectId": "177_1670240301",
+        "addressNote": "Москва, Царицыно, ул. Севанская, д. 19, корп. 3, кв. 415",
+        "apartment": "415",
+        "areaValue": 55.5,
+        "premisesFloor": 1,
+        "num_to_sort": "0415",
+        "data_calculated": 0
+    },
+    {
+        "objectId": "177_14445365301",
+        "addressNote": "Москва, Царицыно, ул. Севанская, д. 19, корп. 3, кв. 416",
+        "apartment": "416",
+        "areaValue": 44.9,
+        "premisesFloor": 1,
+        "num_to_sort": "0416",
+        "data_calculated": 0
+    },
+    {
+        "objectId": "177_14445387301",
+        "addressNote": "Москва, Царицыно, ул. Севанская, д. 19, корп. 3, кв. 417",
+        "apartment": "417",
+        "areaValue": 45.3,
+        "premisesFloor": 2,
+        "num_to_sort": "0417",
+        "data_calculated": 0
+    },
+    {
+        "objectId": "177_14445400301",
+        "addressNote": "Москва, Царицыно, ул. Севанская, д. 19, корп. 3, кв. 418",
+        "apartment": "418",
+        "areaValue": 45.1,
+        "premisesFloor": 2,
+        "num_to_sort": "0418",
+        "data_calculated": 0
+    },
+    {
+        "objectId": "177_14445416301",
+        "addressNote": "Москва, Царицыно, ул. Севанская, д. 19, корп. 3, кв. 419",
+        "apartment": "419",
+        "areaValue": 55.4,
+        "premisesFloor": 2,
+        "num_to_sort": "0419",
+        "data_calculated": 0
+    },
+    {
+        "objectId": "177_14445429301",
+        "addressNote": "Москва, Царицыно, ул. Севанская, д. 19, корп. 3, кв. 420",
+        "apartment": "420",
+        "areaValue": 44.6,
+        "premisesFloor": 2,
+        "num_to_sort": "0420",
+        "data_calculated": 0
+    },
+    {
+        "objectId": "177_12351289301",
+        "addressNote": "Москва, Царицыно, ул. Севанская, д. 19, корп. 3, кв. 421",
+        "apartment": "421",
+        "areaValue": 44.9,
+        "premisesFloor": 3,
+        "num_to_sort": "0421",
+        "data_calculated": 0
+    },
+    {
+        "objectId": "177_14445441301",
+        "addressNote": "Москва, Царицыно, ул. Севанская, д. 19, корп. 3, кв. 422",
+        "apartment": "422",
+        "areaValue": 45.4,
+        "premisesFloor": 3,
+        "num_to_sort": "0422",
+        "data_calculated": 0
+    },
+    {
+        "objectId": "177_14445451301",
+        "addressNote": "Москва, Царицыно, ул. Севанская, д. 19, корп. 3, кв. 423",
+        "apartment": "423",
+        "areaValue": 55.4,
+        "premisesFloor": 3,
+        "num_to_sort": "0423",
+        "data_calculated": 0
+    },
+    {
+        "objectId": "177_1587945301",
+        "addressNote": "Москва, Царицыно, ул. Севанская, д. 19, корп. 3, кв. 424",
+        "apartment": "424",
+        "areaValue": 44.6,
+        "premisesFloor": 3,
+        "num_to_sort": "0424",
+        "data_calculated": 0
+    },
+    {
+        "objectId": "177_14089421301",
+        "addressNote": "Москва, Царицыно, ул. Севанская, д. 19, корп. 3, кв. 425",
+        "apartment": "425",
+        "areaValue": 45.2,
+        "premisesFloor": 4,
+        "num_to_sort": "0425",
+        "data_calculated": 0
+    },
+    {
+        "objectId": "177_14445465301",
+        "addressNote": "Москва, Царицыно, ул. Севанская, д. 19, корп. 3, кв. 426",
+        "apartment": "426",
+        "areaValue": 45.0,
+        "premisesFloor": 4,
+        "num_to_sort": "0426",
+        "data_calculated": 0
+    },
+    {
+        "objectId": "177_12317456301",
+        "addressNote": "Москва, Царицыно, ул. Севанская, д. 19, корп. 3, кв. 427",
+        "apartment": "427",
+        "areaValue": 55.9,
+        "premisesFloor": 4,
+        "num_to_sort": "0427",
+        "data_calculated": 0
+    },
+    {
+        "objectId": "177_13190544301",
+        "addressNote": "Москва, Царицыно, ул. Севанская, д. 19, корп. 3, кв. 428",
+        "apartment": "428",
+        "areaValue": 44.9,
+        "premisesFloor": 4,
+        "num_to_sort": "0428",
+        "data_calculated": 0
+    },
+    {
+        "objectId": "177_14116170301",
+        "addressNote": "Москва, Царицыно, ул. Севанская, д. 19, корп. 3, кв. 429",
+        "apartment": "429",
+        "areaValue": 45.5,
+        "premisesFloor": 5,
+        "num_to_sort": "0429",
+        "data_calculated": 0
+    },
+    {
+        "objectId": "177_14114136301",
+        "addressNote": "Москва, Царицыно, ул. Севанская, д. 19, корп. 3, кв. 430",
+        "apartment": "430",
+        "areaValue": 45.1,
+        "premisesFloor": 5,
+        "num_to_sort": "0430",
+        "data_calculated": 0
+    },
+    {
+        "objectId": "177_14445475301",
+        "addressNote": "Москва, Царицыно, ул. Севанская, д. 19, корп. 3, кв. 431",
+        "apartment": "431",
+        "areaValue": 55.4,
+        "premisesFloor": 5,
+        "num_to_sort": "0431",
+        "data_calculated": 0
+    },
+    {
+        "objectId": "177_14445488301",
+        "addressNote": "Москва, Царицыно, ул. Севанская, д. 19, корп. 3, кв. 432",
+        "apartment": "432",
+        "areaValue": 45.0,
+        "premisesFloor": 5,
+        "num_to_sort": "0432",
+        "data_calculated": 0
+    },
+    {
+        "objectId": "177_14445496301",
+        "addressNote": "Москва, Царицыно, ул. Севанская, д. 19, корп. 3, кв. 433",
+        "apartment": "433",
+        "areaValue": 44.8,
+        "premisesFloor": 1,
+        "num_to_sort": "0433",
+        "data_calculated": 0
+    },
+    {
+        "objectId": "177_14445505301",
+        "addressNote": "Москва, Царицыно, ул. Севанская, д. 19, корп. 3, кв. 434",
+        "apartment": "434",
+        "areaValue": 45.1,
+        "premisesFloor": 1,
+        "num_to_sort": "0434",
+        "data_calculated": 0
+    },
+    {
+        "objectId": "177_13101445301",
+        "addressNote": "Москва, Царицыно, ул. Севанская, д. 19, корп. 3, кв. 435",
+        "apartment": "435",
+        "areaValue": 42.2,
+        "premisesFloor": 1,
+        "num_to_sort": "0435",
+        "data_calculated": 0
+    },
+    {
+        "objectId": "177_14445513301",
+        "addressNote": "Москва, Царицыно, ул. Севанская, д. 19, корп. 3, кв. 436",
+        "apartment": "436",
+        "areaValue": 32.0,
+        "premisesFloor": 1,
+        "num_to_sort": "0436",
+        "data_calculated": 0
+    },
+    {
+        "objectId": "177_10000000077540940",
+        "addressNote": "Москва, Царицыно, ул. Севанская, д. 19, корп. 3, кв. 437",
+        "apartment": "437",
+        "areaValue": 45.0,
+        "premisesFloor": 2,
+        "num_to_sort": "0437",
+        "data_calculated": 0
+    },
+    {
+        "objectId": "177_14445533301",
+        "addressNote": "Москва, Царицыно, ул. Севанская, д. 19, корп. 3, кв. 438",
+        "apartment": "438",
+        "areaValue": 45.1,
+        "premisesFloor": 2,
+        "num_to_sort": "0438",
+        "data_calculated": 0
+    },
+    {
+        "objectId": "177_12105523301",
+        "addressNote": "Москва, Царицыно, ул. Севанская, д. 19, корп. 3, кв. 439",
+        "apartment": "439",
+        "areaValue": 42.5,
+        "premisesFloor": 2,
+        "num_to_sort": "0439",
+        "data_calculated": 0
+    },
+    {
+        "objectId": "177_828899301",
+        "addressNote": "Москва, Царицыно, ул. Севанская, д. 19, корп. 3, кв. 440",
+        "apartment": "440",
+        "areaValue": 31.9,
+        "premisesFloor": 2,
+        "num_to_sort": "0440",
+        "data_calculated": 0
+    },
+    {
+        "objectId": "177_10000000076156598",
+        "addressNote": "Москва, Царицыно, ул. Севанская, д. 19, корп. 3, кв. 441",
+        "apartment": "441",
+        "areaValue": 45.1,
+        "premisesFloor": 3,
+        "num_to_sort": "0441",
+        "data_calculated": 0
+    },
+    {
+        "objectId": "177_10000000076097934",
+        "addressNote": "Москва, Царицыно, ул. Севанская, д. 19, корп. 3, кв. 442",
+        "apartment": "442",
+        "areaValue": 44.8,
+        "premisesFloor": 3,
+        "num_to_sort": "0442",
+        "data_calculated": 0
+    },
+    {
+        "objectId": "177_14445561301",
+        "addressNote": "Москва, Царицыно, ул. Севанская, д. 19, корп. 3, кв. 443",
+        "apartment": "443",
+        "areaValue": 42.5,
+        "premisesFloor": 3,
+        "num_to_sort": "0443",
+        "data_calculated": 0
+    },
+    {
+        "objectId": "177_14445580301",
+        "addressNote": "Москва, Царицыно, ул. Севанская, д. 19, корп. 3, кв. 444",
+        "apartment": "444",
+        "areaValue": 31.8,
+        "premisesFloor": 3,
+        "num_to_sort": "0444",
+        "data_calculated": 0
+    },
+    {
+        "objectId": "177_14445600301",
+        "addressNote": "Москва, Царицыно, ул. Севанская, д. 19, корп. 3, кв. 445",
+        "apartment": "445",
+        "areaValue": 45.4,
+        "premisesFloor": 4,
+        "num_to_sort": "0445",
+        "data_calculated": 0
+    },
+    {
+        "objectId": "1657082354701737",
+        "addressNote": "",
+        "apartment": "446",
+        "areaValue": 0,
+        "premisesFloor": 4,
+        "num_to_sort": "0446",
+        "data_calculated": 1
+    },
+    {
+        "objectId": "177_10000000075523064",
+        "addressNote": "Москва, Царицыно, ул. Севанская, д. 19, корп. 3, кв. 447",
+        "apartment": "447",
+        "areaValue": 42.2,
+        "premisesFloor": 4,
+        "num_to_sort": "0447",
+        "data_calculated": 0
+    },
+    {
+        "objectId": "177_12219017301",
+        "addressNote": "Москва, Царицыно, ул. Севанская, д. 19, корп. 3, кв. 448",
+        "apartment": "448",
+        "areaValue": 31.9,
+        "premisesFloor": 4,
+        "num_to_sort": "0448",
+        "data_calculated": 0
+    },
+    {
+        "objectId": "177_14445661301",
+        "addressNote": "Москва, Царицыно, ул. Севанская, д. 19, корп. 3, кв. 449",
+        "apartment": "449",
+        "areaValue": 45.3,
+        "premisesFloor": 5,
+        "num_to_sort": "0449",
+        "data_calculated": 0
+    },
+    {
+        "objectId": "177_828901301",
+        "addressNote": "Москва, Царицыно, ул. Севанская, д. 19, корп. 3, кв. 450",
+        "apartment": "450",
+        "areaValue": 45.1,
+        "premisesFloor": 5,
+        "num_to_sort": "0450",
+        "data_calculated": 0
+    },
+    {
+        "objectId": "177_10000000075788814",
+        "addressNote": "Москва, Царицыно, ул. Севанская, д. 19, корп. 3, кв. 451",
+        "apartment": "451",
+        "areaValue": 42.1,
+        "premisesFloor": 5,
+        "num_to_sort": "0451",
+        "data_calculated": 0
+    },
+    {
+        "objectId": "177_1322250301",
+        "addressNote": "Москва, Царицыно, ул. Севанская, д. 19, корп. 3, кв. 452",
+        "apartment": "452",
+        "areaValue": 31.9,
+        "premisesFloor": 5,
+        "num_to_sort": "0452",
+        "data_calculated": 0
+    }
+]

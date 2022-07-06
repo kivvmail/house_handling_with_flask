@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+{% import "bootstrap/wtf.html" as wtf %}
+
+{% block title %}
+Новый дом (шаг 3/5)
+{% endblock title %}
+
+{% block content %}
+<div class="container">
+<h1>Обработка нового дома</h1>
+<br>
+<h2>Шаг 3/5. Введите адрес</h2>
+<br>
+{{ wtf.quick_form(form_address) }}
+</div>
+{{ super() }}
+{% endblock content %}

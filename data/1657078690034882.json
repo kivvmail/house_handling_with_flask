@@ -1,0 +1,1031 @@
+[
+    {
+        "objectId": "168_068680000719786",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 1",
+        "apartment": "1",
+        "areaValue": 59.7,
+        "premisesFloor": 1
+    },
+    {
+        "objectId": "168_068680000709811",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 10",
+        "apartment": "10",
+        "areaValue": 36.6,
+        "premisesFloor": 3
+    },
+    {
+        "objectId": "168_068680000712360",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 100",
+        "apartment": "100",
+        "areaValue": 62.7,
+        "premisesFloor": 8
+    },
+    {
+        "objectId": "168_10000000074790371",
+        "addressNote": "Российская Федерация, Тамбовская область, городской округ город Тамбов, город Тамбов, улица Свободная, дом 16б,  квартира 101",
+        "apartment": "101",
+        "areaValue": 124.1,
+        "premisesFloor": 9
+    },
+    {
+        "objectId": "168_10000000074925366",
+        "addressNote": "Российская Федерация, Тамбовская область, городской округ г. Тамбов, г. Тамбов, ул. Свободная, д. 16б, кв.102",
+        "apartment": "102",
+        "areaValue": 73.0,
+        "premisesFloor": 9
+    },
+    {
+        "objectId": "168_10000000122182054",
+        "addressNote": "Российская Федерация, Тамбовская область, городской округ город Тамбов, г. Тамбов, ул. Свободная, д. 16б, кв. 103",
+        "apartment": "103",
+        "areaValue": 72.8,
+        "premisesFloor": 9
+    },
+    {
+        "objectId": "168_068680000707598",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 104",
+        "apartment": "104",
+        "areaValue": 62.3,
+        "premisesFloor": 9
+    },
+    {
+        "objectId": "168_068680000702567",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 105",
+        "apartment": "105",
+        "areaValue": 75.9,
+        "premisesFloor": 2
+    },
+    {
+        "objectId": "168_068680000726583",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 106",
+        "apartment": "106",
+        "areaValue": 64.6,
+        "premisesFloor": 2
+    },
+    {
+        "objectId": "168_068680000703706",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 107",
+        "apartment": "107",
+        "areaValue": 39.2,
+        "premisesFloor": 2
+    },
+    {
+        "objectId": "168_068680000703656",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 108",
+        "apartment": "108",
+        "areaValue": 39.4,
+        "premisesFloor": 2
+    },
+    {
+        "objectId": "168_068680000713156",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 109",
+        "apartment": "109",
+        "areaValue": 39.5,
+        "premisesFloor": 2
+    },
+    {
+        "objectId": "168_068680000707218",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 11",
+        "apartment": "11",
+        "areaValue": 62.3,
+        "premisesFloor": 3
+    },
+    {
+        "objectId": "168_068680000720936",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 110",
+        "apartment": "110",
+        "areaValue": 81.0,
+        "premisesFloor": 2
+    },
+    {
+        "objectId": "168_068680000704189",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 111",
+        "apartment": "111",
+        "areaValue": 76.2,
+        "premisesFloor": 3
+    },
+    {
+        "objectId": "168_10000000062052780",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 112",
+        "apartment": "112",
+        "areaValue": 65.4,
+        "premisesFloor": 3
+    },
+    {
+        "objectId": "168_068680000700864",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 113",
+        "apartment": "113",
+        "areaValue": 39.4,
+        "premisesFloor": 3
+    },
+    {
+        "objectId": "168_068680000699273",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 114",
+        "apartment": "114",
+        "areaValue": 39.4,
+        "premisesFloor": 3
+    },
+    {
+        "objectId": "168_068680000701733",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 115",
+        "apartment": "115",
+        "areaValue": 39.4,
+        "premisesFloor": 3
+    },
+    {
+        "objectId": "168_068680000720605",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 116",
+        "apartment": "116",
+        "areaValue": 81.0,
+        "premisesFloor": 3
+    },
+    {
+        "objectId": "168_068680000761894",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 117",
+        "apartment": "117",
+        "areaValue": 76.3,
+        "premisesFloor": 4
+    },
+    {
+        "objectId": "168_068680000699641",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 118",
+        "apartment": "118",
+        "areaValue": 65.4,
+        "premisesFloor": 4
+    },
+    {
+        "objectId": "168_068680000721683",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 119",
+        "apartment": "119",
+        "areaValue": 39.4,
+        "premisesFloor": 4
+    },
+    {
+        "objectId": "168_068680000711827",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 12",
+        "apartment": "12",
+        "areaValue": 60.0,
+        "premisesFloor": 4
+    },
+    {
+        "objectId": "168_068680000700813",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 120",
+        "apartment": "120",
+        "areaValue": 39.4,
+        "premisesFloor": 4
+    },
+    {
+        "objectId": "168_068680000708725",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 121",
+        "apartment": "121",
+        "areaValue": 39.4,
+        "premisesFloor": 4
+    },
+    {
+        "objectId": "168_068680000774000",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 122",
+        "apartment": "122",
+        "areaValue": 81.1,
+        "premisesFloor": 4
+    },
+    {
+        "objectId": "168_068680000710616",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 123",
+        "apartment": "123",
+        "areaValue": 76.6,
+        "premisesFloor": 5
+    },
+    {
+        "objectId": "168_068680000711551",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 124",
+        "apartment": "124",
+        "areaValue": 64.8,
+        "premisesFloor": 5
+    },
+    {
+        "objectId": "168_068680000881376",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 125",
+        "apartment": "125",
+        "areaValue": 39.3,
+        "premisesFloor": 5
+    },
+    {
+        "objectId": "168_068680000881374",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 126",
+        "apartment": "126",
+        "areaValue": 39.2,
+        "premisesFloor": 5
+    },
+    {
+        "objectId": "168_068680000727230",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 127",
+        "apartment": "127",
+        "areaValue": 39.3,
+        "premisesFloor": 5
+    },
+    {
+        "objectId": "168_068680000847814",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 128",
+        "apartment": "128",
+        "areaValue": 81.2,
+        "premisesFloor": 5
+    },
+    {
+        "objectId": "168_068680000708289",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 129",
+        "apartment": "129",
+        "areaValue": 76.6,
+        "premisesFloor": 6
+    },
+    {
+        "objectId": "168_068680000702149",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 13",
+        "apartment": "13",
+        "areaValue": 36.5,
+        "premisesFloor": 4
+    },
+    {
+        "objectId": "168_068680000755793",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 131",
+        "apartment": "131",
+        "areaValue": 39.3,
+        "premisesFloor": 6
+    },
+    {
+        "objectId": "168_068680000725418",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 132",
+        "apartment": "132",
+        "areaValue": 39.2,
+        "premisesFloor": 6
+    },
+    {
+        "objectId": "168_068680000707621",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 133",
+        "apartment": "133",
+        "areaValue": 39.2,
+        "premisesFloor": 6
+    },
+    {
+        "objectId": "168_068680000859107",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 134",
+        "apartment": "134",
+        "areaValue": 81.1,
+        "premisesFloor": 6
+    },
+    {
+        "objectId": "168_068680000708756",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 135",
+        "apartment": "135",
+        "areaValue": 76.3,
+        "premisesFloor": 7
+    },
+    {
+        "objectId": "168_068680000715191",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 136",
+        "apartment": "136",
+        "areaValue": 64.4,
+        "premisesFloor": 7
+    },
+    {
+        "objectId": "168_068680000720486",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 137",
+        "apartment": "137",
+        "areaValue": 39.4,
+        "premisesFloor": 7
+    },
+    {
+        "objectId": "168_068680000704685",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 138",
+        "apartment": "138",
+        "areaValue": 39.5,
+        "premisesFloor": 7
+    },
+    {
+        "objectId": "168_068680000767570",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 139",
+        "apartment": "139",
+        "areaValue": 39.5,
+        "premisesFloor": 7
+    },
+    {
+        "objectId": "168_068680000700957",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 14",
+        "apartment": "14",
+        "areaValue": 36.3,
+        "premisesFloor": 4
+    },
+    {
+        "objectId": "168_068680000710554",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 140",
+        "apartment": "140",
+        "areaValue": 80.5,
+        "premisesFloor": 7
+    },
+    {
+        "objectId": "168_068680000716647",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 141",
+        "apartment": "141",
+        "areaValue": 76.8,
+        "premisesFloor": 8
+    },
+    {
+        "objectId": "168_068680000731129",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 142",
+        "apartment": "142",
+        "areaValue": 64.5,
+        "premisesFloor": 8
+    },
+    {
+        "objectId": "168_068680000701001",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 143",
+        "apartment": "143",
+        "areaValue": 39.4,
+        "premisesFloor": 8
+    },
+    {
+        "objectId": "168_068680000701174",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 144",
+        "apartment": "144",
+        "areaValue": 39.8,
+        "premisesFloor": 8
+    },
+    {
+        "objectId": "168_068680000726172",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 145",
+        "apartment": "145",
+        "areaValue": 39.5,
+        "premisesFloor": 8
+    },
+    {
+        "objectId": "168_068680000702195",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 146",
+        "apartment": "146",
+        "areaValue": 81.0,
+        "premisesFloor": 8
+    },
+    {
+        "objectId": "168_068680000709684",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 147",
+        "apartment": "147",
+        "areaValue": 76.9,
+        "premisesFloor": 9
+    },
+    {
+        "objectId": "168_068680000773566",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 149",
+        "apartment": "149",
+        "areaValue": 39.5,
+        "premisesFloor": 9
+    },
+    {
+        "objectId": "168_068680000705920",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 15",
+        "apartment": "15",
+        "areaValue": 62.5,
+        "premisesFloor": 4
+    },
+    {
+        "objectId": "168_10000000122730424",
+        "addressNote": "Российская Федерация, Тамбовская область, городской округ город Тамбов, г. Тамбов, ул. Свободная, д. 16б, кв. 151",
+        "apartment": "151",
+        "areaValue": 78.1,
+        "premisesFloor": 9
+    },
+    {
+        "objectId": "168_068680000730916",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 152",
+        "apartment": "152",
+        "areaValue": 81.2,
+        "premisesFloor": 9
+    },
+    {
+        "objectId": "168_068680000755865",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 16",
+        "apartment": "16",
+        "areaValue": 60.2,
+        "premisesFloor": 5
+    },
+    {
+        "objectId": "168_068680000708262",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 17",
+        "apartment": "17",
+        "areaValue": 36.7,
+        "premisesFloor": 5
+    },
+    {
+        "objectId": "168_068680000700516",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 18",
+        "apartment": "18",
+        "areaValue": 36.6,
+        "premisesFloor": 5
+    },
+    {
+        "objectId": "168_068680000699874",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 19",
+        "apartment": "19",
+        "areaValue": 62.6,
+        "premisesFloor": 5
+    },
+    {
+        "objectId": "168_068680000716951",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 2",
+        "apartment": "2",
+        "areaValue": 35.8,
+        "premisesFloor": 1
+    },
+    {
+        "objectId": "168_068680000706142",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 20",
+        "apartment": "20",
+        "areaValue": 60.4,
+        "premisesFloor": 6
+    },
+    {
+        "objectId": "168_068680000701010",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 21",
+        "apartment": "21",
+        "areaValue": 36.7,
+        "premisesFloor": 6
+    },
+    {
+        "objectId": "168_068680000727523",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 22",
+        "apartment": "22",
+        "areaValue": 36.8,
+        "premisesFloor": 6
+    },
+    {
+        "objectId": "168_068680000701835",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 23",
+        "apartment": "23",
+        "areaValue": 62.2,
+        "premisesFloor": 6
+    },
+    {
+        "objectId": "168_068680000806669",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 24",
+        "apartment": "24",
+        "areaValue": 60.4,
+        "premisesFloor": 7
+    },
+    {
+        "objectId": "168_068680000769703",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 25",
+        "apartment": "25",
+        "areaValue": 36.6,
+        "premisesFloor": 7
+    },
+    {
+        "objectId": "168_068680000719561",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 26",
+        "apartment": "26",
+        "areaValue": 36.5,
+        "premisesFloor": 7
+    },
+    {
+        "objectId": "168_068680000713888",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 27",
+        "apartment": "27",
+        "areaValue": 62.5,
+        "premisesFloor": 7
+    },
+    {
+        "objectId": "168_068680000705918",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 28",
+        "apartment": "28",
+        "areaValue": 60.3,
+        "premisesFloor": 8
+    },
+    {
+        "objectId": "168_068680000700642",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 29",
+        "apartment": "29",
+        "areaValue": 36.4,
+        "premisesFloor": 8
+    },
+    {
+        "objectId": "168_068680000733937",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 3",
+        "apartment": "3",
+        "areaValue": 84.5,
+        "premisesFloor": 1
+    },
+    {
+        "objectId": "168_068680000720782",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 31",
+        "apartment": "31",
+        "areaValue": 62.2,
+        "premisesFloor": 8
+    },
+    {
+        "objectId": "168_10000000074576279",
+        "addressNote": "Российская Федерация, Тамбовская область, городской округ город Тамбов, город Тамбов, улица Свободная, дом 16б, квартира 32",
+        "apartment": "32",
+        "areaValue": 118.5,
+        "premisesFloor": 9
+    },
+    {
+        "objectId": "168_10000000074582470",
+        "addressNote": "Российская Федерация, Тамбовская область, г Тамбов, ул Свободная, дом 16б, квартира 33",
+        "apartment": "33",
+        "areaValue": 70.8,
+        "premisesFloor": 9
+    },
+    {
+        "objectId": "168_10000000125106727",
+        "addressNote": "Российская Федерация, Тамбовская область, городской округ город Тамбов, город Тамбов, ул. Свободная, д. 16б, кв. 34",
+        "apartment": "34",
+        "areaValue": 72.2,
+        "premisesFloor": 9
+    },
+    {
+        "objectId": "168_10000000123432450",
+        "addressNote": "Российская Федерация, Тамбовская область, городской округ город Тамбов, город Тамбов, улица Свободная, дом 16б, квартира 35",
+        "apartment": "35",
+        "areaValue": 123.1,
+        "premisesFloor": 9
+    },
+    {
+        "objectId": "168_068680000706048",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 36",
+        "apartment": "36",
+        "areaValue": 61.6,
+        "premisesFloor": 1
+    },
+    {
+        "objectId": "168_068680000706140",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 37",
+        "apartment": "37",
+        "areaValue": 35.2,
+        "premisesFloor": 1
+    },
+    {
+        "objectId": "168_068680000728779",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 38",
+        "apartment": "38",
+        "areaValue": 84.0,
+        "premisesFloor": 1
+    },
+    {
+        "objectId": "168_068680000741903",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 39",
+        "apartment": "39",
+        "areaValue": 61.9,
+        "premisesFloor": 2
+    },
+    {
+        "objectId": "168_068680000730273",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 4",
+        "apartment": "4",
+        "areaValue": 60.2,
+        "premisesFloor": 2
+    },
+    {
+        "objectId": "168_068680000719898",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 40",
+        "apartment": "40",
+        "areaValue": 36.5,
+        "premisesFloor": 2
+    },
+    {
+        "objectId": "168_068680000774206",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 41",
+        "apartment": "41",
+        "areaValue": 36.7,
+        "premisesFloor": 2
+    },
+    {
+        "objectId": "168_10000000054365901",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 42",
+        "apartment": "42",
+        "areaValue": 61.9,
+        "premisesFloor": 2
+    },
+    {
+        "objectId": "168_068680000704168",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 43",
+        "apartment": "43",
+        "areaValue": 62.4,
+        "premisesFloor": 3
+    },
+    {
+        "objectId": "168_068680000700955",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 44",
+        "apartment": "44",
+        "areaValue": 36.4,
+        "premisesFloor": 3
+    },
+    {
+        "objectId": "168_068680000699942",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 45",
+        "apartment": "45",
+        "areaValue": 36.5,
+        "premisesFloor": 3
+    },
+    {
+        "objectId": "168_068680000709477",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 46",
+        "apartment": "46",
+        "areaValue": 62.0,
+        "premisesFloor": 3
+    },
+    {
+        "objectId": "168_068680000732975",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 47",
+        "apartment": "47",
+        "areaValue": 62.2,
+        "premisesFloor": 4
+    },
+    {
+        "objectId": "168_068680000712212",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 48",
+        "apartment": "48",
+        "areaValue": 36.4,
+        "premisesFloor": 4
+    },
+    {
+        "objectId": "168_068680000699951",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 49",
+        "apartment": "49",
+        "areaValue": 36.2,
+        "premisesFloor": 4
+    },
+    {
+        "objectId": "168_068680000776966",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 5",
+        "apartment": "5",
+        "areaValue": 36.5,
+        "premisesFloor": 2
+    },
+    {
+        "objectId": "168_068680000707644",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 50",
+        "apartment": "50",
+        "areaValue": 61.9,
+        "premisesFloor": 4
+    },
+    {
+        "objectId": "168_068680000706472",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 51",
+        "apartment": "51",
+        "areaValue": 62.1,
+        "premisesFloor": 5
+    },
+    {
+        "objectId": "168_068680000714505",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 52",
+        "apartment": "52",
+        "areaValue": 36.2,
+        "premisesFloor": 5
+    },
+    {
+        "objectId": "168_068680000705319",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 53",
+        "apartment": "53",
+        "areaValue": 36.5,
+        "premisesFloor": 5
+    },
+    {
+        "objectId": "168_068680000703923",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 54",
+        "apartment": "54",
+        "areaValue": 61.7,
+        "premisesFloor": 5
+    },
+    {
+        "objectId": "168_068680000736098",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 55",
+        "apartment": "55",
+        "areaValue": 62.2,
+        "premisesFloor": 6
+    },
+    {
+        "objectId": "168_068680000741393",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 56",
+        "apartment": "56",
+        "areaValue": 36.4,
+        "premisesFloor": 6
+    },
+    {
+        "objectId": "168_068680000721725",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 57",
+        "apartment": "57",
+        "areaValue": 36.6,
+        "premisesFloor": 6
+    },
+    {
+        "objectId": "168_068680000751804",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 58",
+        "apartment": "58",
+        "areaValue": 61.9,
+        "premisesFloor": 6
+    },
+    {
+        "objectId": "168_068680000701208",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 59",
+        "apartment": "59",
+        "areaValue": 62.2,
+        "premisesFloor": 7
+    },
+    {
+        "objectId": "168_068680000785878",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 6",
+        "apartment": "6",
+        "areaValue": 36.7,
+        "premisesFloor": 2
+    },
+    {
+        "objectId": "168_068680000720315",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 60",
+        "apartment": "60",
+        "areaValue": 36.7,
+        "premisesFloor": 7
+    },
+    {
+        "objectId": "168_068680000699834",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 61",
+        "apartment": "61",
+        "areaValue": 36.6,
+        "premisesFloor": 7
+    },
+    {
+        "objectId": "168_068680000849352",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 62",
+        "apartment": "62",
+        "areaValue": 61.7,
+        "premisesFloor": 7
+    },
+    {
+        "objectId": "168_068680000755062",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 63",
+        "apartment": "63",
+        "areaValue": 62.1,
+        "premisesFloor": 8
+    },
+    {
+        "objectId": "168_068680000718359",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 64",
+        "apartment": "64",
+        "areaValue": 36.4,
+        "premisesFloor": 8
+    },
+    {
+        "objectId": "168_10000000121612728",
+        "addressNote": "Российская Федерация, Тамбовская область, городской округ  город Тамбов, город Тамбов, ул. Свободная, дом 16б, квартира 65",
+        "apartment": "65",
+        "areaValue": 95.8,
+        "premisesFloor": 8
+    },
+    {
+        "objectId": "168_068680000704191",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 67",
+        "apartment": "67",
+        "areaValue": 62.1,
+        "premisesFloor": 9
+    },
+    {
+        "objectId": "168_10000000079204578",
+        "addressNote": "Российская Федерация, Тамбовская область, городской округ  город Тамбов, город Тамбов, улица Свободная, дом 16б, квартира 68",
+        "apartment": "68",
+        "areaValue": 70.4,
+        "premisesFloor": 9
+    },
+    {
+        "objectId": "168_068680000713997",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 69",
+        "apartment": "69",
+        "areaValue": 36.7,
+        "premisesFloor": 9
+    },
+    {
+        "objectId": "168_068680000700960",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 7",
+        "apartment": "7",
+        "areaValue": 62.0,
+        "premisesFloor": 2
+    },
+    {
+        "objectId": "168_068680000702213",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 70",
+        "apartment": "70",
+        "areaValue": 61.9,
+        "premisesFloor": 9
+    },
+    {
+        "objectId": "168_068680000748616",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 71",
+        "apartment": "71",
+        "areaValue": 64.1,
+        "premisesFloor": 1
+    },
+    {
+        "objectId": "168_068680000749303",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 72",
+        "apartment": "72",
+        "areaValue": 36.0,
+        "premisesFloor": 1
+    },
+    {
+        "objectId": "168_068680000700030",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 73",
+        "apartment": "73",
+        "areaValue": 62.4,
+        "premisesFloor": 2
+    },
+    {
+        "objectId": "168_068680000700176",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 74",
+        "apartment": "74",
+        "areaValue": 36.2,
+        "premisesFloor": 2
+    },
+    {
+        "objectId": "168_068680000702498",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 75",
+        "apartment": "75",
+        "areaValue": 36.2,
+        "premisesFloor": 2
+    },
+    {
+        "objectId": "168_068680000729362",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 76",
+        "apartment": "76",
+        "areaValue": 62.4,
+        "premisesFloor": 2
+    },
+    {
+        "objectId": "168_068680000704975",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 77",
+        "apartment": "77",
+        "areaValue": 62.0,
+        "premisesFloor": 3
+    },
+    {
+        "objectId": "168_068680000699877",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 78",
+        "apartment": "78",
+        "areaValue": 36.5,
+        "premisesFloor": 3
+    },
+    {
+        "objectId": "168_068680000735247",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 79",
+        "apartment": "79",
+        "areaValue": 36.6,
+        "premisesFloor": 3
+    },
+    {
+        "objectId": "168_068680000703487",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 8",
+        "apartment": "8",
+        "areaValue": 60.0,
+        "premisesFloor": 3
+    },
+    {
+        "objectId": "168_068680000712513",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 80",
+        "apartment": "80",
+        "areaValue": 62.5,
+        "premisesFloor": 3
+    },
+    {
+        "objectId": "168_068680000701896",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 81",
+        "apartment": "81",
+        "areaValue": 61.9,
+        "premisesFloor": 4
+    },
+    {
+        "objectId": "168_10000000054361863",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 82",
+        "apartment": "82",
+        "areaValue": 36.8,
+        "premisesFloor": 4
+    },
+    {
+        "objectId": "168_068680000728561",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 83",
+        "apartment": "83",
+        "areaValue": 36.5,
+        "premisesFloor": 4
+    },
+    {
+        "objectId": "168_10000000054361858",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 84",
+        "apartment": "84",
+        "areaValue": 62.3,
+        "premisesFloor": 4
+    },
+    {
+        "objectId": "168_068680000731234",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 85",
+        "apartment": "85",
+        "areaValue": 61.9,
+        "premisesFloor": 5
+    },
+    {
+        "objectId": "168_068680000699832",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 86",
+        "apartment": "86",
+        "areaValue": 36.5,
+        "premisesFloor": 5
+    },
+    {
+        "objectId": "168_068680000708238",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 87",
+        "apartment": "87",
+        "areaValue": 36.7,
+        "premisesFloor": 5
+    },
+    {
+        "objectId": "168_068680000733916",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 88",
+        "apartment": "88",
+        "areaValue": 62.3,
+        "premisesFloor": 5
+    },
+    {
+        "objectId": "168_10000000054361832",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 89",
+        "apartment": "89",
+        "areaValue": 62.1,
+        "premisesFloor": 6
+    },
+    {
+        "objectId": "168_10000000054366054",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 9",
+        "apartment": "9",
+        "areaValue": 36.4,
+        "premisesFloor": 3
+    },
+    {
+        "objectId": "168_068680000737419",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 90",
+        "apartment": "90",
+        "areaValue": 36.5,
+        "premisesFloor": 6
+    },
+    {
+        "objectId": "168_068680000706467",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 91",
+        "apartment": "91",
+        "areaValue": 36.5,
+        "premisesFloor": 6
+    },
+    {
+        "objectId": "168_068680000703591",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 92",
+        "apartment": "92",
+        "areaValue": 62.3,
+        "premisesFloor": 6
+    },
+    {
+        "objectId": "168_068680000699622",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 93",
+        "apartment": "93",
+        "areaValue": 62.1,
+        "premisesFloor": 7
+    },
+    {
+        "objectId": "168_068680000703843",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 94",
+        "apartment": "94",
+        "areaValue": 36.8,
+        "premisesFloor": 7
+    },
+    {
+        "objectId": "168_068680000753823",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 95",
+        "apartment": "95",
+        "areaValue": 36.7,
+        "premisesFloor": 7
+    },
+    {
+        "objectId": "168_068680000704952",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 96",
+        "apartment": "96",
+        "areaValue": 62.5,
+        "premisesFloor": 7
+    },
+    {
+        "objectId": "168_068680000699742",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 97",
+        "apartment": "97",
+        "areaValue": 62.3,
+        "premisesFloor": 8
+    },
+    {
+        "objectId": "168_068680000706626",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 98",
+        "apartment": "98",
+        "areaValue": 36.6,
+        "premisesFloor": 8
+    },
+    {
+        "objectId": "168_068680000731717",
+        "addressNote": "Тамбовская область, г Тамбов, ул Свободная, д 16б, кв 99",
+        "apartment": "99",
+        "areaValue": 36.6,
+        "premisesFloor": 8
+    }
+]

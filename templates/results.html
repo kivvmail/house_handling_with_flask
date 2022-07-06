@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+{% import "bootstrap/wtf.html" as wtf %}
+
+{% block title %}
+Результаты для нового дома
+{% endblock title %}
+
+{% block content %}
+<div class="container">
+<h1>План подъездов и этажей нового дома</h1>
+<br>
+</div>
+<p class="show-spaces">
+<code>
+    {% for item in floors_list: %}
+        {{ item }}
+    {% endfor %}
+</code>
+</p>
+{{ super() }}
+{% endblock content %}

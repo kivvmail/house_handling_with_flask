@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+{% import "bootstrap/wtf.html" as wtf %}
+
+{% block title %}
+Новый дом (шаг 5/5)
+{% endblock title %}
+
+{% block content %}
+<div class="container">
+<h1>Обработка нового дома</h1>
+<br>
+<h2>Шаг 5/5. Запуск парсинга детальной информации о квартирах в доме с сайта Росреестра</h2>
+<p>Обработка запроса может занять несколько минут в зависимости от скорости интернет-соединения и загруженности сайта Росреестра</p>
+<br>
+{{ wtf.quick_form(form_parsing) }}
+</div>
+{{ super() }}
+{% endblock content %}

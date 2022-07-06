@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+
+{% block title %}
+Все дома
+{% endblock title %}
+
+{% block content %}
+<div class="container">
+{% for house in houses: %}
+{{house.macroregion_name}} - {{house.region_name}} - {{house.street}} - {{house.house}} - {{house.building}} <a
+        href="/plans/{{house.id}}">See house plan</a> <br>
+{% endfor %}
+</div>
+{{ super() }}
+{% endblock content %}

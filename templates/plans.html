@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+{% import "bootstrap/wtf.html" as wtf %}
+
+{% block styles %}
+{{super()}}
+<style>
+    .show-spaces {font-size: 10px; white-space: pre;}
+</style>
+{% endblock styles %}
+
+{% block title %}
+План дома
+{% endblock title %}
+
+{% block content %}
+<div class="container">
+<h1>План подъездов и этажей дома</h1>
+<h2>
+    Адрес: {{house.macroregion_name}} - {{house.region_name}} - {{house.street}} - {{house.house}} - {{house.building}}
+</h2>
+<br>
+</div>
+<div class="show-spaces">
+    {% for item in floors_list: %}
+        <code>{{ item }}</code>
+    {% endfor %}
+</div>
+{{ super() }}
+{% endblock content %}

@@ -1,0 +1,12 @@
+h1 {
+    padding-top: 20px;
+}
+
+.container {
+    padding-left: 20px;
+}
+
+.show-spaces {
+    font-size: 10px;
+    white-space: pre;
+}
